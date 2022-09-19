@@ -1,0 +1,6 @@
+Controller\MainController.class
+View\ConvertidorView.class
+View\InterfazView.class
+Controller\ConvertidorController.class
+Model\ConvertidorModel.class
+View\ConvertidorViewSwing.class
